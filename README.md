@@ -14,20 +14,20 @@
 
 Contexto transforms static PDF documents into an intelligent AI assistant.
 
-Simply upload one or more PDFs, ask questions in natural language, and receive accurate answers grounded in the document content. Instead of relying solely on an LLM's memory, Contexto retrieves relevant document chunks using semantic search before generating responses, reducing hallucinations and improving answer quality.
+Simply upload one or more PDFs, ask questions in natural language, and receive accurate answers grounded in the document content. Instead of relying solely on an LLM's memory , Contexto retrieves relevant document chunks using semantic search before generating responses, reducing hallucinations and improving answer quality.
 
 ---
 
 ## ✨ Features
 
-- 📄 Upload and chat with multiple PDFs
-- 🔍 Semantic search using vector embeddings
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💬 Conversational chat interface
-- 📚 Source-aware responses
-- ⚡ Fast document retrieval with ChromaDB
-- 🧹 Clear Documents & Chat functionality
-- 🎨 Clean Streamlit UI
+- 📄 Upload and chat with multiple PDFs.
+- 🔍 Semantic search using vector embeddings.
+- 🧠 Retrieval-Augmented Generation (RAG).
+- 💬 Conversational chat interface.
+- 📚 Source-aware responses.
+- ⚡ Fast document retrieval with ChromaDB.
+- 🧹 Clear Documents & Chat functionality.
+- 🎨 Clean Streamlit UI.
 
 ---
 
